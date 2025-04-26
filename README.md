@@ -44,7 +44,7 @@
 
 ---
 
-```javascript
+
 const life = {
   code: ['JavaScript', 'C', 'C++', 'Java'],
   tools: ['React', 'Node', 'TensorFlow', 'Spring'],
