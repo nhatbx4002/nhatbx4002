@@ -43,14 +43,3 @@
 "Đôi khi tôi dành cả ngày để tìm kiếm lỗi, chỉ để phát hiện ra rằng tôi quên mất một dấu chấm phẩy!"
 
 ---
-
-
-const life = {
-  code: ['JavaScript', 'C', 'C++', 'Java'],
-  tools: ['React', 'Node', 'TensorFlow', 'Spring'],
-  passion: ['Web Development', 'AI Engineering', 'Problem Solving'],
-  challenge: function() {
-    return this.passion.map(p => `Becoming better at ${p} every day`);
-  }
-};
-```
